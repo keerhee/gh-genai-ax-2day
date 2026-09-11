@@ -59,6 +59,8 @@ index.html    과정 안내 페이지 (GitHub Pages 홈)
 정답키, 분류 정답표, 데이터 생성기, 캡스톤 모범답안 문서는 제외했습니다.
 연습 과제는 **정답 수치를 공개하지 않는 것이 설계의 일부**입니다.
 
+강사용 자료는 비공개 저장소 [gh-genai-ax-2day-instructor](https://github.com/keerhee/gh-genai-ax-2day-instructor) 에 따로 있습니다(권한이 있어야 열립니다).
+
 ## 퀴즈와 완성본 웹앱
 
 파일 하나로 동작합니다. 내려받아 더블클릭하면 인터넷 없이 열리고,
