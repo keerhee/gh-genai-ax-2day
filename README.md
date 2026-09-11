@@ -9,7 +9,7 @@
 
 ## 과정 안내 페이지
 
-### 👉 https://keerhee.github.io/gh-genai-ax-2day/
+### 👉 https://keerhee.github.io/gh-genai-ax/
 
 덱 PDF·PPTX, 실습 데이터 ZIP, 퀴즈, 완성본 웹앱을 한 화면에서 내려받습니다.
 
@@ -59,7 +59,7 @@ index.html    과정 안내 페이지 (GitHub Pages 홈)
 정답키, 분류 정답표, 데이터 생성기, 캡스톤 모범답안 문서는 제외했습니다.
 연습 과제는 **정답 수치를 공개하지 않는 것이 설계의 일부**입니다.
 
-강사용 자료는 비공개 저장소 [gh-genai-ax-2day-instructor](https://github.com/keerhee/gh-genai-ax-2day-instructor) 에 따로 있습니다(권한이 있어야 열립니다).
+강사용 자료는 비공개 저장소 [gh-genai-ax-instructor](https://github.com/keerhee/gh-genai-ax-instructor) 에 따로 있습니다(권한이 있어야 열립니다).
 
 ## 퀴즈와 완성본 웹앱
 
