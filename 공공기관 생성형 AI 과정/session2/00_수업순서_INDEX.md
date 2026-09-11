@@ -1,20 +1,20 @@
 # 공공기관 생성형 AI 트랙 — 중급 (session2)
 
-기초 트랙(`../session1`)의 4단계에 해당한다. 기초 3시간의 산출물이 그대로 이 과정의 입력이 된다.
+기초 트랙(`../session1`)의 4단계에 해당한다. 이 세션은 집합 3시간이며, 기초의 산출물이 그대로 입력이 된다.
 한 줄 요약: 기초는 파일을 올리고, 중급은 폴더를 맡긴다.
 
 | 순서 | 단계 | 형태·시간 | 덱 | 딸린 파일 |
 |---|---|---|---|---|
-| 4 | 중급 · 폴더 위임 | 집합 3시간, 프롬프트 12 + 웹앱 5 (41장) | `PublicOffice_GenAI_Intermediate_3H.pptx` / `.pdf` | `PublicOffice_GenAI_Intermediate_3H_data/`, `_Quiz.html` |
-| 4-연습 | 중급 연습 과제 | 90분, 같은 프롬프트 · 새 폴더 (16장) | `PublicOffice_GenAI_Practice_Round.pptx` / `.pdf` | `PublicOffice_GenAI_Practice_Round_data/`, `_Quiz.html` |
-| 4-확장 | 중급 캡스톤 | 60~75분, 6단계 (29장) | `PublicOffice_GenAI_Capstone.pptx` / `.pdf` | `PublicOffice_GenAI_Capstone_data/` |
+| 4 | 중급 · 폴더 위임 | 집합 · 프롬프트 12 + 웹앱 5 (41장) | `PublicOffice_GenAI_Intermediate_3H.pptx` / `.pdf` | `PublicOffice_GenAI_Intermediate_3H_data/`, `_Quiz.html` |
+| 4-연습 | 중급 연습 과제 | 집합 · 같은 프롬프트 · 새 폴더 (16장) | `PublicOffice_GenAI_Practice_Round.pptx` / `.pdf` | `PublicOffice_GenAI_Practice_Round_data/`, `_Quiz.html` |
+| 4-확장 | 중급 캡스톤 | 집합 · 6단계 (29장) | `PublicOffice_GenAI_Capstone.pptx` / `.pdf` | `PublicOffice_GenAI_Capstone_data/` |
 
 연습 과제는 본과정과 캡스톤 사이에 둔다. 본과정에서 배운 흐름을 **새 데이터로 혼자 한 번** 돌려
 캡스톤에서 공개데이터를 다룰 준비를 시킨다. 정답 수치는 학습자에게 공개하지 않는다.
 
-캡스톤은 본과정을 일찍 끝낸 팀을 위한 확장 과제다. 40분만 남아도 4단계까지로 완결된다.
+캡스톤은 본과정을 일찍 끝낸 팀을 위한 확장 과제다. 시간이 모자라면 4단계까지로 완결된다.
 
-## 중급 3시간 · 블록 구성
+## 중급 · 블록 구성
 
 작업 흐름은 PLAN First → 분석 → 정책 → 보고 → Final Audit. 30분마다 산출물 하나와 웹앱 하나가 나온다.
 
