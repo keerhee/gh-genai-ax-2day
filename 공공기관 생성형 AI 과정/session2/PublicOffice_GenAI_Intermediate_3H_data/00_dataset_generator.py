@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""공공기관 생성형 AI 중급 3H — 실습 데이터 생성기 (seed 고정, 재현 가능)
+"""공공기관 생성형 AI 중급 — 실습 데이터 생성기 (seed 고정, 재현 가능)
    사례: 쓰레기 무단투기 민원 200건 + 기존 CCTV 30개 + 지역 기초현황 + 예산 3천만원"""
 import csv, random, datetime as dt, json
 from collections import defaultdict

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""공공기관 생성형 AI 기초 3H — 실습 데이터 생성기 (재현 가능, seed 고정)"""
+"""공공기관 생성형 AI 기초 2 — 실습 데이터 생성기 (재현 가능, seed 고정)"""
 import csv, random, datetime as dt
 from collections import defaultdict
 
