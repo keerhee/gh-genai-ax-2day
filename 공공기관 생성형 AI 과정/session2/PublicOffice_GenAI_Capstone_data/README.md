@@ -24,11 +24,10 @@ input/                              Track B 오프라인 스냅샷 (합성 데�
   pedestrian_accidents.csv              24행 · 어린이 보행사고 = 사건 신호
   project_conditions.txt                 예산 5천만원 · 단가 8종 · 제약 6개
 answer/gapmap.html                  모범답안 웹앱 — 더블클릭하면 예시 데이터가 자동 실행됩니다
-answer/model_answer.md              설계 결정 · 유형 분해 · 예산안 · Red Team · Final Audit
-answer_key_instructor.csv           강사용 — 오염 건수와 심어 둔 함정
-action_type_answer_instructor.csv   강사용 — 32곳 전부의 조치 유형·긴급도 정답
 00_dataset_generator.py             데이터 재생성 스크립트 (seed 20260904, 결과 동일)
 ```
+> 이름에 `instructor`가 붙은 파일과 모범답안 문서는 **이 공개 배포본에 없습니다.** 강사용 저장소에 따로 있습니다.
+
 
 ## 바로 확인하는 법 — 아무것도 안 해도 됩니다
 

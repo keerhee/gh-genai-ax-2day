@@ -43,10 +43,5 @@ Claude Code가 매 명령마다 루트의 CLAUDE.md를 자동으로 읽기 때�
 
 ## 강사용
 
-`강사용_instructor_only/`에 생성기·검산기·정답키·덱 빌드 스크립트가 있다.
-**수강생 배포 시 이 폴더를 통째로 뺀다.**
-
-- `gen_intermediate_data.py` — seed 20260911로 같은 데이터를 다시 만든다
-- `verify_intermediate_data.py` — 심어 둔 오염 건수와 KPI 순위를 검산한다
-- `make_answer_key.py` → `정답키.md` — 학습자가 내야 할 값 전부
-- `build_practice_deck.js` — 과제 덱 재빌드
+생성기·검산기·정답키·덱 빌드 스크립트는 **이 공개 배포본에 없다.** 강사용 저장소에 따로 있다.
+연습 과제는 정답 수치를 공개하지 않는 것이 설계의 일부다.

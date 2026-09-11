@@ -5,10 +5,11 @@
 02_complaints_segments.csv      세그먼트 집계 86행 — 민원유형·행정동·접수채널·연령대·부서·유형×행정동 교차
 03_complaints_monthly.csv       월별 요약 12개월 — 총민원·쓰레기민원·평균처리일수·미처리·만족도·재민원율
 04_prompt_templates.csv         재사용 프롬프트 템플릿 7종 (B1~B5 · W1 · W2)
-05_answer_key_instructor.csv    강사용 정답키 — 오염 건수와 심어 둔 함정
 00_dataset_generator.py         데이터 재생성 스크립트 (seed 20260902, 결과 동일)
 answer/complaint_dashboard.html 완성본 웹앱 — 더블클릭하면 예시 데이터로 바로 실행됩니다
 ```
+> 이름에 `instructor`가 붙은 파일과 모범답안 문서는 **이 공개 배포본에 없습니다.** 강사용 저장소에 따로 있습니다.
+
 
 ## 완성본 웹앱 먼저 보기
 

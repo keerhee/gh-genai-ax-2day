@@ -11,11 +11,11 @@ input/                     원본 — 절대 수정하지 않습니다
   project_conditions.txt       사업조건 — 예산 3천만원 · 단가 9종 · 제약 6개
 working/             작업 기록이 쌓이는 곳 (PLAN.md, cleaning_log.md, red_team_review.md, final_audit.md)
 output/              산출물이 저장되는 곳 (01~11)
-answer_key_instructor.csv              강사용 — 오염 건수와 심어 둔 함정
-classification_answer_instructor.csv   강사용 — 민원 200건의 분류 정답과 확신도
 00_dataset_generator.py                데이터 재생성 스크립트 (seed 20260903, 결과 동일)
 answer/ops_dashboard.html              완성본 웹앱 — 더블클릭하면 예시 데이터로 바로 실행됩니다
 ```
+> 이름에 `instructor`가 붙은 파일과 모범답안 문서는 **이 공개 배포본에 없습니다.** 강사용 저장소에 따로 있습니다.
+
 
 ## 완성본 웹앱 먼저 보기
 
