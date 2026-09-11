@@ -1,0 +1,12 @@
+# 강사용 자료는 이 저장소에 올리지 않는다
+*_instructor*
+**/강사용_instructor_only/
+**/instructor/
+**/model_answer.md
+*정답키*
+
+# 작업 부산물
+.DS_Store
+__pycache__/
+*.pyc
+.playwright-mcp/
