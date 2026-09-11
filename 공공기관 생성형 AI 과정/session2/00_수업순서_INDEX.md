@@ -43,7 +43,8 @@
 | 6 | 보고서와 Final Audit | 1페이지 보고서 + 검산표 |
 
 배점 100점은 조치 유형 판정 25, 지도 웹앱 25, 나머지 50으로 나뉜다. 지도의 미관에는 배점이 없다.
-모범답안 완성본이 `PublicOffice_GenAI_Capstone_data/answer/gapmap.html`이다. 해설은 같은 폴더의 `answer/model_answer.md`.
+모범답안 완성본이 `PublicOffice_GenAI_Capstone_data/answer/gapmap.html`이다.
+해설 문서(`model_answer.md`)는 강사용이라 이 저장소에 없다.
 
 ## 실습 데이터
 
