@@ -25,9 +25,10 @@
 | `cctv_existing_30.csv` | 설치연도·화소·촬영방향·야간성능 | 30행 × 10열 | H |
 | `district_profile.csv` | 인구·세대·상가·원룸비율·분리수거함수 | 7행 × 12열 | F · H |
 | `project_conditions.txt` | 예산 3천만원 · 단가 9종 · 제약 6개 | 텍스트 | I |
-| `CLAUDE.md` | 프로젝트 상시 규칙 6개 | 텍스트 | 전 단계 |
 
 `working/`과 `output/`은 비워 두고 시작한다. 학습자가 직접 만든다.
+`CLAUDE.md`(프로젝트 상시 규칙 6개)는 `input/`이 아니라 **폴더 루트**에 둔다.
+Claude Code가 매 명령마다 루트의 CLAUDE.md를 자동으로 읽기 때문이다.
 
 ## 일부러 심어 둔 문제
 
