@@ -29,6 +29,7 @@
 | `session2-2_중급_폴더위임` | 중급 | 교안 · `input/` 4개 · `CLAUDE.md` · 실습안내 · 퀴즈 |
 | `session2-3_연습과제` | 연습 과제 | 교안 · `input/` 4개 · `CLAUDE.md` · 실습안내 · 퀴즈 |
 | `session2-4_캡스톤` | 캡스톤 | 교안 · `input/` 5개 · 실습안내 · 진행가이드 |
+| `보충교재` | 수업 전 준비 | 설치 안내 — Claude Desktop · VS Code · Claude Code (윈도우/맥) |
 
 ## 결과물은 수강생이 만듭니다
 
