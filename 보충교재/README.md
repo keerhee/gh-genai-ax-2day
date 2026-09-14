@@ -107,6 +107,8 @@ pdftoppm -r 80 -png 설치교안.pdf /tmp/deck   # 눈으로 확인까지 해야
 
 | 파일 | 용도 |
 |---|---|
+| `한글문서_HWP/한글문서교안.pptx` | 강의용 덱 원본 (PPTX는 깃허브에 올리지 않습니다) |
+| `한글문서_HWP/한글문서교안.pdf` | 덱 배포용 (8장) |
 | `한글문서_HWP/kordoc_설치와_사용.md` | 설치 세 가지 방법 · 읽기 · 마크다운→HWPX 생성 · 양식 채우기 |
 | `한글문서_HWP/예제/*.hwpx` | 업무보고·보고서 양식 3종 (이름·번호는 전부 가짜 값) |
 | `한글문서_HWP/예제/서울시_공무원_생성형_AI_활용_교육_계획서_gemini.pdf` | PDF→마크다운 연습용. **AI가 만든 가상 문서** |
@@ -120,3 +122,6 @@ npx kordoc validate 보고서.hwpx                 # 한컴독스에서 열리�
 ```
 
 저장소는 <https://github.com/chrisryugj/kordoc> (MIT). Node.js 18 이상이 필요합니다.
+
+덱을 다시 만들려면 — `cd 한글문서_HWP && NODE_PATH=$(npm root -g) node 한글문서교안_빌드.js`
+출고 전 `verify_render.py`가 0건이어야 합니다.
